@@ -3,18 +3,9 @@ main:
   - title: "About"
     url: /categories/
   - title: "Algorithm"
-    url: /algorithm/
-
-#  - title: "Collections"
-#    url: /collection-archive/
-#  - title: "Sitemap"
-#    url: /sitemap/
-#  - title: "Extra Menu Item 1"
-#    url: /
-#  - title: "Extra Menu Item 2"
-#    url: /
-#  - title: "Extra Menu Item Long Title"
-#    url: /
+    url: /Algorithm/
+  - title: "Data Analytics"
+    url: /dataanalytics/
 
 # sidebar navigation list sample
 #sidebar-sample:
