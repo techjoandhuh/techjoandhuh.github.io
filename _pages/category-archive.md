@@ -19,3 +19,6 @@ Majored in Computer Science at the University of Iowa.<br>
 
 👩🏻‍💻 <b>Jiminutive (Co-founder)</b> 👩🏻‍💻<br>
 Majored in BAIS (Business Analytics & information Systems) at the University of Iowa.
+
+<br><br>
+Copyright ⓒ 2022. Tech Jo & Huh. All Rights Reserved.
