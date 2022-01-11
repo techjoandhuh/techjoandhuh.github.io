@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quicksort Algorithm Experiment"
-category: Quicksort
+categories: Quicksort
 toc: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Data analytics"
+title: "Data Analytics"
 permalink: /dataanalytics/
 layout: category
 author_profile: true
