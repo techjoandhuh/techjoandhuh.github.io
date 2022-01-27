@@ -1,6 +1,6 @@
 ---
 title: "Algorithm"
 permalink: /algorithm/
-layout: categories
+layout: category
 author_profile: true
 ---
