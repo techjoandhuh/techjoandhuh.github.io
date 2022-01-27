@@ -1,11 +1,12 @@
-# main links links
 main:
-  - title: "About"
+  - title: "Heads"
+    url: /introduce/
+  - title: "About 🔍"
+    url: /about/
+  - title: "Categories"
     url: /categories/
-  - title: "Algorithm"
-    url: /Algorithm/
-  - title: "Data Analytics"
-    url: /dataanalytics/
+  - title: "Sources"
+    url: /sources/
 
 # sidebar navigation list sample
 #sidebar-sample:
